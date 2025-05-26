@@ -1,5 +1,4 @@
-import { Message } from '@terradharitri/sdk-core/out';
-import { Transaction } from '@terradharitri/sdk-core/out/transaction';
+import { Message, Transaction } from '@terradharitri/sdk-core';
 import {
   CrossWindowProvider,
   IProviderAccount

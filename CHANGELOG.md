@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.1](https://github.com/TerraDharitri/drt-js-sdk-web-wallet-iframe-provider/pull/9) - 2024-10-10
+- [Fixed unresponsive login](https://github.com/TerraDharitri/drt-js-sdk-web-wallet-iframe-provider/pull/8)
+
+## [2.0.0](https://github.com/TerraDharitri/drt-js-sdk-web-wallet-iframe-provider/pull/7) - 2024-10-04
+- [Standardize provider](https://github.com/TerraDharitri/drt-js-sdk-web-wallet-iframe-provider/pull/6)
+
 ## [1.0.0](https://github.com/TerraDharitri/drt-js-sdk-metamask-proxy-provider/pull/13) - 2024-08-29
 - [Upgrade sdk-dapp-utils and cross-window-provider - breaking changes](https://github.com/TerraDharitri/drt-js-sdk-metamask-proxy-provider/pull/12)
 

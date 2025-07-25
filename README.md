@@ -1,4 +1,4 @@
-# drt-js-sdk-web-wallet-iframe-provider
+# drt-sdk-js-web-wallet-iframe-provider
 
 Signing provider for dApps: Web Wallet Iframe Provider. 
 
@@ -8,7 +8,7 @@ Note that **we recommend using [sdk-dapp](https://github.com/TerraDharitri/drt-s
 
 ## Distribution
 
-[npm](https://www.npmjs.com/package/@terradharitri/drt-js-sdk-web-wallet-iframe-provider)
+[npm](https://www.npmjs.com/package/@TerraDharitri/drt-sdk-js-web-wallet-iframe-provider)
 
 ## Installation
 

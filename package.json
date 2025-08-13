@@ -1,6 +1,6 @@
 {
   "name": "@terradharitri/sdk-web-wallet-iframe-provider",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Signing provider for dApps: Web Wallet Iframe Provider",
   "main": "out/index.js",
   "types": "out/index.d.js",
